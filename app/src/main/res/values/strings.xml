@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PADC-X-CustomAssignment-EH</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_dashboard">OMP DashBoard</string>
+    <string name="lbl_btn_progress">In progress</string>
+    <string name="main_title">Create additional pages</string>
+
+    <string-array name="titles">
+        <item>Awsmd Team</item>
+        <item>Test</item>
+    </string-array>
+</resources>
